@@ -13,6 +13,7 @@
   ## Usage
   Use this application to create notes or code snippets, with or without internet connection. The user input will be automatically saved with IndexedDB when the user click off of the DOM window. When user reopen the text editor after closing the browser, the saved content will be repopulated in the text field.
   User can also download the application onto their local computer, appearing as an icon on their desktop.
+  Check out the application via the link: https://text-editor-pwa-08042023.herokuapp.com/
   ## Installation
   Run the application with the command 'npm run start' from the root directory. This will start up the backend and serve the client. The Text editor requires Webpack, Babel, Concurrently and Nodemon packages. To install all relevant packages, run the command 'npm run install' from the root directory, this will automatically run the installation for client and server directory.
   ## Contributing
